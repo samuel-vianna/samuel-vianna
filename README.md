@@ -7,7 +7,7 @@
 
 <div display='inline-block' gap='4px'>
   <img height='160' align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-vianna&count_private=true&theme=dark" />
-  <img height='160' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-vianna&layout=compact&theme=dark" />
+  <img height='160' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-vianna&layout=compact&theme=dark&count_private=true" />
 </div>
 
 <div style="display: inline_block"><br>
