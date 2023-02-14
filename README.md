@@ -1,9 +1,8 @@
 ## Oi! Eu sou o Samuel 👋
 
-- 🎓 Sou bacharel em estatística pela **Universidade Estadual de Maringá**
+- 🎓 Bacharel em estatística pela **Universidade Estadual de Maringá**
 - 🔭 Atualmente trabalho como desenvolvedor full stack
-- 🎹 Sou apaixonado por música
-- 😄 Pronomes: ele/dele
+- 🎹 Apaixonado por música
 
 <div display='inline-block' gap='4px'>
   <img height='160' align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-vianna&count_private=true&theme=dark" />
