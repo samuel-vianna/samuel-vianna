@@ -1,11 +1,11 @@
-## Oi! Eu sou o Samuel 👋
+## Hi! I'm Samuel 👋
 
-- 🎓 Bacharel em estatística pela **Universidade Estadual de Maringá**
-- 🔭 Atualmente trabalho como desenvolvedor full stack
-- 🎹 Apaixonado por música
+- 🎓 Bachelor degree in statistics by **State University of Maringá**
+- 🔭 Tech lead and Full Stack developer
+- 🎹 Passionate about music
 
 <div display='inline-block' gap='4px'>
-  <img height='160' align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-vianna&count_private=true&theme=dark" />
+<!--   <img height='160' align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-vianna&count_private=true&theme=dark" /> -->
   <img height='160' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-vianna&layout=compact&theme=dark&count_private=true" />
 </div>
 
